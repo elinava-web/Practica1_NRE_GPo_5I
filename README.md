@@ -19,3 +19,6 @@ link otro
 
 https://ejemplocodigo.com/ejemplo-html5-maquetacion-de-una-pagina/
 
+## Muy explicado
+
+https://www.mclibre.org/consultar/htmlcss/html/html-secciones.html
