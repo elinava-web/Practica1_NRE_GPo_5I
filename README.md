@@ -13,3 +13,9 @@ https://github.com/ymulenll/css-grid-template
 # Otro ejemplo
 
 https://youtu.be/grScJAcO45g
+
+
+link otro
+
+https://ejemplocodigo.com/ejemplo-html5-maquetacion-de-una-pagina/
+
